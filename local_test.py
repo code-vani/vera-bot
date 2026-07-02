@@ -1,7 +1,7 @@
 import json, glob, requests, sys, subprocess
 from pathlib import Path
 
-BASE = "http://localhost:8080"
+BASE = "https://vera-bot-1-48g7.onrender.com"
 
 HERE = Path(__file__).resolve().parent
 DATA_PATH = HERE / "dataset" / "expanded"

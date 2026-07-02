@@ -92,7 +92,7 @@ async def metadata():
             "which guarantees determinism and sub-second latency and avoids "
             "hallucination risk on the 'don't fabricate' constraint. See README.md."
         ),
-        "contact_email": "you@example.com",
+        "contact_email": "vanshikagarg.20744@gmail.com",
         "version": "1.0.0",
         "submitted_at": _now_iso(),
     }
